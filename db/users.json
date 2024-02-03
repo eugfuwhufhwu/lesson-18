@@ -1,0 +1,99 @@
+{
+  "USERS": [
+    {
+      "id": "53f3",
+      "form": "rectagle",
+      "color": "red"
+    },
+    {
+      "id": "7ae4",
+      "form": "rectangle",
+      "color": "red"
+    },
+    {
+      "id": "8f57",
+      "form": "",
+      "color": ""
+    },
+    {
+      "id": "b902",
+      "form": "",
+      "color": ""
+    },
+    {
+      "id": "cab5",
+      "form": "",
+      "color": ""
+    },
+    {
+      "id": "c265",
+      "form": "",
+      "color": ""
+    },
+    {
+      "id": "6207",
+      "form": "",
+      "color": ""
+    },
+    {
+      "id": "6ae7",
+      "form": "",
+      "color": ""
+    },
+    {
+      "id": "8a83",
+      "form": "",
+      "color": ""
+    },
+    {
+      "id": "ffa0",
+      "form": "",
+      "color": ""
+    },
+    {
+      "id": "d0ba",
+      "form": "",
+      "color": ""
+    },
+    {
+      "id": "ca48",
+      "form": "",
+      "color": ""
+    },
+    {
+      "id": "2989",
+      "form": "rectangle",
+      "color": "red"
+    },
+    {
+      "id": "3295",
+      "form": "",
+      "color": ""
+    },
+    {
+      "id": "6b2e",
+      "form": "",
+      "color": ""
+    },
+    {
+      "id": "a5a5",
+      "form": "",
+      "color": ""
+    },
+    {
+      "id": "1029",
+      "form": "",
+      "color": ""
+    },
+    {
+      "id": "48e1",
+      "form": "square",
+      "color": "blue"
+    },
+    {
+      "id": "2b6b",
+      "form": "circle",
+      "color": "green"
+    }
+  ]
+}
